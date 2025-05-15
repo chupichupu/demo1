@@ -1,7 +1,17 @@
-<iframe
-  src="https://chupichupu .github.io/banner-demo/banner.html"
-  width="300"
-  height="250"
-  frameborder="0"
-  scrolling="no">
-</iframe>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>バナー埋め込みのテストページ</title>
+</head>
+<body>
+  <h1>バナー表示テスト</h1>
+  <iframe
+    src="https://chupichupu.github.io/banner-demo/banner.html"
+    width="300"
+    height="250"
+    frameborder="0"
+    scrolling="no">
+  </iframe>
+</body>
+</html>
